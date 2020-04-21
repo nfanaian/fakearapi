@@ -1,14 +1,10 @@
 {
-  "posts": [
+  "trips": [
     {
       "id": 1,
-      "title": "hello"
+      "tripName": "My first bukkake"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
-
   "reviews": [
     {
       "id": 1,
@@ -16,6 +12,5 @@
       "lat": -32.522778,
       "lng": -55.765835
     }
-
   ]
 }
