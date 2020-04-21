@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+
+  "reviews": [
+    {
+      "id": 1,
+      "review": "review test",
+      "lat": -32.522778,
+      "lng": -55.765835
+    }
+
+  ]
 }
