@@ -1,11 +1,20 @@
 {
-  "places": [],
-  "things": [],
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "username": "john",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@gmail.com"
+    }
+  ],
+  "itinerary": [],
   "trips": [
     {
       "id": 1,
-      "tripName": "My first bukkake"
+      "tripName": "My first trip",
+      "userId": 1,
+      "reviews": [1]
     }
   ],
   "reviews": [
@@ -13,7 +22,17 @@
       "id": 1,
       "review": "review test",
       "lat": -32.522778,
-      "lng": -55.765835
+      "lng": -55.765835,
+      "userId": 1
     }
-  ]
+  ],
+  "places": [],
+  "things": [],
+  "posts": [],
+  "comments": [], 
+  "markers": [],
+  "foo": [],
+  "orders": [], 
+  "books": [],
+  "cats": []
 }
